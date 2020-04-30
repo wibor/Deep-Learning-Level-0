@@ -2,7 +2,7 @@
 """
 Created on Tue Apr 28 20:40:00 2020
 
-@author: tatus
+@author: 
 """
 
 # get data
