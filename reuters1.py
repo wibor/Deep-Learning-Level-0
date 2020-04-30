@@ -2,7 +2,7 @@
 """
 Created on Wed Apr 29 19:01:02 2020
 
-@author: tatus
+@author:
 """
 
 from keras.datasets import reuters
